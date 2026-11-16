@@ -1,0 +1,5 @@
+:HL["/ai-chat/_next/static/css/2bf17101a1f5dfb3.css","style"]
+:HL["/ai-chat/_next/static/css/063749547ab867df.css","style"]
+:HL["/ai-chat/_next/static/css/371105fec95a3bea.css","style"]
+:HL["/ai-chat/_next/static/css/e2f3cdee92448af7.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"ImSvnM0z7O_jz5tymrIUp"}
