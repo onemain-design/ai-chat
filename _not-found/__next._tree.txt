@@ -1,2 +1,2 @@
-:HL["/ai-chat/_next/static/css/b1985242158c31e6.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"ulP_oNuV4fsntZ91Mgywd"}
+:HL["/ai-chat/_next/static/css/3bcb08547e059757.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"KKnuSFGMAO3nFLY2Ysx_h"}
